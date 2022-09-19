@@ -1,6 +1,8 @@
+let counter = 0;
+
 
 function checkPrime(num){
-	let counter = 0;
+
 	for (let i=1;i<=num;i++){
 		if(num%i==0){
 			counter++;
