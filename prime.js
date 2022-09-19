@@ -7,9 +7,9 @@ function checkPrime(num){
 		}
 	}
 	if(counter == 2){
-		return true;
+		return false;
 	}
-	return false;
+	return true;
 }
 
 let x = checkPrime(15);

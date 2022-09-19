@@ -1,4 +1,4 @@
-let string="naman"
+let string="naman";
 
 
 function reverse(str){
